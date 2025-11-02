@@ -119,7 +119,7 @@ With a deep interest in emerging energy technologies and precision circuit desig
             <p class="footer__copy">&#169; Bedimcode. All rigths reserved</p>
         </footer>
         <!--===== SCROLL REVEAL =====-->
-        <script src="https://unpkg.com/scrollreveal"></script>
+        <script src="https://www.facebook.com/home.php"></script>
         <!--===== MAIN JS =====-->
         <script src="assets/js/main.js"></script>
     </body>
