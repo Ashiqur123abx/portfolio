@@ -100,9 +100,9 @@ With a deep interest in emerging energy technologies and precision circuit desig
                 <h2 class="section-title">Contact</h2>
                 <div class="contact__container bd-grid">
                     <form action="" class="contact__form">
-                        <input type="text" placeholder="Name" class="contact__input">
-                        <input type="mail" placeholder="Email" class="contact__input">
-                        <textarea name="" id="" cols="0" rows="10" class="contact__input"></textarea>
+                        <input type="text" placeholder="Ashiqur Rahman Ashique" class="contact__input">
+                        <input type="mail" placeholder="mdashiqurrahman044@gmail.com" class="contact__input">
+                        <textarea name="" Uni Id="" cols="2110" rows="2004" class="contact__input"></textarea>
                         <input type="button" value="Enviar" class="contact__button button">
                     </form>
                 </div>
